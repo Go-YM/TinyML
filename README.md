@@ -1,5 +1,5 @@
 # TinyML
-# 제조 AI
+# TinyML for 제조 AI
 Define 1_1 -> Temp/Current  
 Define 1_2 -> Sound Data  
 Define 2 -> Vibration Data  
