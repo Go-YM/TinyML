@@ -1,0 +1,14 @@
+Define 미팅 준비 (코드, 보고서)
+1. 온도. 전류 -> Logistic Regression (O,)
+ - Define_1_1
+2. 역률 평균 -> Random Forest (O,), DNN (O,)
+ - RF -> Tiny
+ - DNN -> Define_add 
+3. 전류 평균 ->SVM (O,)
+ - Define_4
+ - joblib -> h5 도 설명
+
+전체 Process: 
+모델 h5 파일 다운로드 및 h5 파일로 예측 수행하는 것까지
+
+
