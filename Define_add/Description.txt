@@ -17,3 +17,9 @@ Sickit-learn 의 경우 joblib 으로 변환 후, h5 파일로 변환해야함.
 -> 문제발생. 위의 과정으로 내보낸 h5 파일은 원래 h5 처럼 불러와서 예측 수행 불가능
 -> pkl 파일로 불러와서 h5 파일로 변환 하여 예측 수행도 불가능
 -> pkl 파일로 저장 후 pkl 파일을 불러와 예측 수행 가능
+
+1. LR-> h5 (Keras)
+2. RF -> pkl (Sickit-learn)
+3. SVM -> pkl (Sickit-learn)
+4. LDA -> pkl (Sickit-learn)
+5. LSTM -> h5 (keras)
