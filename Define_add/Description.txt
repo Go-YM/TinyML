@@ -22,4 +22,4 @@ Sickit-learn 의 경우 joblib 으로 변환 후, h5 파일로 변환해야함.
 2. RF -> pkl (Sickit-learn)
 3. SVM -> pkl (Sickit-learn)
 4. LDA -> pkl (Sickit-learn)
-5. LSTM -> h5 (keras)
+5. Ada boost -> pkl (Sickit-learn)
